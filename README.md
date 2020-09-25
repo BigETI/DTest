@@ -1,13 +1,13 @@
 # dtest
 
-[![sampctl](https://img.shields.io/badge/sampctl-dtest-2f2f2f.svg?style=for-the-badge)](https://github.com/BigETI/dtest)
+[![sampctl](https://img.shields.io/badge/sampctl-DTest-2f2f2f.svg?style=for-the-badge)](https://github.com/BigETI/DTest)
 
 ## Installation
 
 Simply install to your project:
 
 ```bash
-sampctl p install BigETI/dtest
+sampctl p install BigETI/DTest
 ```
 
 Include in your code and begin using the library:

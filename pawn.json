@@ -1,6 +1,6 @@
 {
 	"user": "BigETI",
-	"repo": "dtest",
+	"repo": "DTest",
 	"entry": "test\\mytest.pwn",
 	"output": "test\\mytest.amx",
     "include_path": "include",
