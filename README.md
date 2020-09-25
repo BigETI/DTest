@@ -1,4 +1,4 @@
-# dtest
+# DTest
 
 [![sampctl](https://img.shields.io/badge/sampctl-DTest-2f2f2f.svg?style=for-the-badge)](https://github.com/BigETI/DTest)
 
