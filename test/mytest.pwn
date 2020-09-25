@@ -1,5 +1,3 @@
-#include <time>
-#include <string>
 #include <dtest>
 /* START: Functions to test : */
 stock left(const source[], length)

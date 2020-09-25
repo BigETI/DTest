@@ -15,6 +15,11 @@
   #endinput
 #endif
 #define _dtest_included
+
+#include <console>
+#include <time>
+#include <string>
+
 const dtestMaximalStringSize = 255;
 
 /* Mainpart-Sections */
