@@ -28,6 +28,6 @@ sampctl p run
 
 This repository exists for preservation purposes.
 
-dtest has been originally made by DracoBlue: https://dracoblue.net/downloads/dtest/
+DTest has been originally made by DracoBlue: https://dracoblue.net/downloads/dtest/
 
 Small modifications to the original source has been done to fix issues.
