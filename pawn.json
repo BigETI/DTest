@@ -1,0 +1,16 @@
+{
+	"user": "BigETI",
+	"repo": "dtest",
+	"entry": "test\\mytest.pwn",
+	"output": "test\\mytest.amx",
+    "include_path": "include",
+	"dependencies": [
+		"sampctl/pawn-stdlib"
+	],
+    "builds": [
+        {
+            "name": "test",
+            "includes": ["./include"]
+        }
+    ]
+}
